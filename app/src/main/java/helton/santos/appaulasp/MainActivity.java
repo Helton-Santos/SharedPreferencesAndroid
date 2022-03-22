@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         //dados.clear();
         //dados.apply();
 
-        //dados.remove("estoque"); //Isso era remover o atributo estoque
+        //dados.remove("estoque"); //Isso irá remover o atributo estoque
         //dados.apply();
 
         Log.i(TAG, "onCreate: Dados recuperados");
